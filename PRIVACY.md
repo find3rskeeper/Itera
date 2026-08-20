@@ -75,4 +75,4 @@ We may update our Privacy Policy from time to time. Any updates will be posted t
 
 If you have any questions or feedback regarding this Privacy Policy, you can reach out via:
 - **GitHub**: [https://github.com/](https://github.com/) (or your project repository issue tracker)
-- **Email**: [your-email@domain.com](mailto:your-email@domain.com)
+- **Email**: [njain4u@gmail.com](mailto:njain4u@gmail.com)
